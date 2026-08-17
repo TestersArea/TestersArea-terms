@@ -5,6 +5,7 @@
 **Developer:** OpusVale Developer
 **Contact Email:** testersareaofficial@gmail.com
 
+
 ---
 
 Welcome to **Testers Area** ("we", "our", "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). Please read this privacy policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
