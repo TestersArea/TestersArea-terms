@@ -1,6 +1,6 @@
 # Terms of Service for Testers Area
 
-**Last Updated:** August 17, 2025  
+**Last Updated:** August 23, 2026  
 **App Name:** Testers Area  
 **Developer:** OpusVale Developer  
 **Contact Email:** testersareaofficial@gmail.com
@@ -28,6 +28,8 @@ To use Testers Area, you must meet **all** of the following requirements:
 - You must be the legitimate owner or authorized representative of any app you submit for testing.
 - You must own or have legitimate access to the Android device you are using.
 - Each user is limited to **one account per device**. Creating multiple accounts on the same or different devices to manipulate the system is strictly prohibited.
+- You must complete the in-app onboarding process before accessing any features of the App.
+- To participate as a tester, you must join our official **Google Group** (`testersarea@googlegroups.com`) using the **exact same Google account** that you use on the Google Play Store. Failure to use the same account will prevent you from downloading and testing assigned apps.
 
 ---
 
@@ -63,6 +65,7 @@ The following activities are strictly prohibited and may result in immediate acc
 | **Spam** | Sending excessive, irrelevant, or unsolicited testing requests |
 | **Clock Manipulation** | Changing your device clock to fake screenshot timestamps (detected via NTP verification) |
 | **Impersonation** | Pretending to be another developer or submitting apps you do not own |
+| **Wrong Google Account** | Joining the Google Group (`testersarea@googlegroups.com`) with a different Google account than the one used on Google Play Store, making it impossible to download and test assigned apps |
 
 ### 4.3 Reputation System
 - Your **Reputation Score** reflects your testing reliability and honesty. It increases with completed honest testing and decreases with violations.
@@ -135,7 +138,7 @@ You may delete your account at any time from **Settings > Delete Account**. Acco
 
 ## 10. Premium Features & Monetization
 
-- Certain premium features may be offered in the future (e.g., Top Listing, Agency Plans).
+- While basic testing features are free, TestersArea reserves the right to introduce Premium (PRO) subscriptions for advanced developer tools, analytics, or agency plans in future updates.
 - Premium feature availability is controlled by us and may change at any time.
 - Any paid features will have their specific terms displayed before purchase.
 
@@ -213,4 +216,4 @@ If you have any questions about these Terms of Service, please contact us at:
 
 ---
 
-*These terms were last reviewed and are effective as of the date stated above.*
+*These terms were last reviewed and are effective as of August 23, 2026.*
