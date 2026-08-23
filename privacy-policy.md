@@ -1,6 +1,6 @@
 # Privacy Policy for Testers Area
 
-**Last Updated:** August 17, 2025  
+**Last Updated:** August 23, 2026  
 **App Name:** Testers Area  
 **Developer:** OpusVale Developer  
 **Contact Email:** testersareaofficial@gmail.com
@@ -37,7 +37,8 @@ If you do not agree with the terms of this privacy policy, please do not access 
 - **Screenshots (READ_MEDIA_IMAGES / READ_EXTERNAL_STORAGE Permission):** You are required to select and upload screenshots from your device as proof of daily testing. These images are:
   - Compressed to WebP format on your device before upload to minimize data usage and storage.
   - Stored securely on our servers (Supabase Storage with Row Level Security).
-  - Shared **only** with the app owner you are testing for, strictly for verification purposes.
+  - Shared **only** with the specific app owner you are testing for, strictly for verification purposes, and with **no one else under any circumstances**.
+  - **Never** made publicly accessible, indexed, or shared with any third parties, advertisers, or other users.
   - **Automatically deleted** from our servers after the testing period is completed and verified.
 - **Screenshot Metadata (EXIF):** We read the capture timestamp from your screenshot files (using EXIF data and filename patterns) to verify that the screenshot was genuinely taken during the testing period. We do **not** read or store GPS location data, camera model, or any other EXIF metadata beyond the capture timestamp.
 
@@ -57,7 +58,10 @@ The following data is stored **only on your device** using SharedPreferences and
 - Daily testing reminder times.
 - Fraud detection flags (local backup).
 
-### 1.9 Network Time Verification
+### 1.9 Google Group Membership
+- To access testing features, you are required to join our official **Google Group** (`testersarea@googlegroups.com`). This group is hosted by Google Groups. By joining, your Google account email becomes visible to group administrators. We use this group exclusively for granting you access to test apps on the Google Play Store. We do **not** use this group for marketing, spam, or any other purpose. Google's own Privacy Policy applies to your use of Google Groups.
+
+### 1.10 Network Time Verification
 - **NTP (Network Time Protocol):** We connect to public NTP servers to verify the current time independently of your device clock. This is used to prevent timestamp manipulation fraud. No personal data is sent during this process.
 
 ---
@@ -195,4 +199,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 ---
 
-*This privacy policy was last reviewed and is effective as of the date stated above.*
+*This privacy policy was last reviewed and is effective as of August 23, 2026.*
