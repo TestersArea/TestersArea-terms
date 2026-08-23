@@ -126,7 +126,7 @@ We implement industry-standard security measures to protect your personal inform
 ## 5. Data Retention & Deletion
 
 ### 5.1 Automatic Deletion
-- **Testing Screenshots:** Automatically deleted from our servers after the testing period is completed and verified.
+- **Testing Screenshots & Proofs (Data Retention Policy):** Once your 14-day testing period is successfully completed, your Final Report and testing proofs will be available for download for exactly 7 days. After this 7-day grace period, all testing proofs (including screenshots and playtime records) will be **permanently and automatically deleted** from our servers to protect your privacy and save storage. It is the developer's responsibility to download their Final Report within this 7-day window.
 - **Old Notifications:** Automatically cleaned up after a configurable retention period (default: 20 days).
 
 ### 5.2 Account Deletion
