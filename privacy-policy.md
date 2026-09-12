@@ -6,7 +6,7 @@
 **Developer:** OpusVale Developer  
 **Contact Email:** testersareaofficial@gmail.com  
 **Official Community Group:** testersarea@googlegroups.com  
-**Website:** https://testersarea.com  
+
 
 ---
 
@@ -214,4 +214,4 @@ If you have questions, inquiries, or feedback regarding this Privacy Policy, ple
 **Developer:** OpusVale Developer  
 **Email:** testersareaofficial@gmail.com  
 **Official Community Group:** testersarea@googlegroups.com  
-**Website:** https://testersarea.com
+
