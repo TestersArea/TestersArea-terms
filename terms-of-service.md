@@ -6,7 +6,7 @@
 **Developer:** OpusVale Developer  
 **Contact Email:** testersareaofficial@gmail.com  
 **Official Community Group:** testersarea@googlegroups.com  
-**Website:** https://testersarea.com  
+
 
 ---
 
